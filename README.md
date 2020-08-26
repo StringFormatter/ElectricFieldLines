@@ -1,5 +1,4 @@
-# Physics
+# ElectricFieldLines
 
-Various physics simulations coded in python3
-
-Requirements include Tkinter
+Small interface for visuallizing the electric field and electric potential lines for a customizable distribution of point charges
+Requirements include Tkinter and python3
